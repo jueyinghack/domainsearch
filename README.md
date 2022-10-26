@@ -1,9 +1,1 @@
-# domainsearch
-Scan websites within the specified IP range
-
-# How to use it
-python domainsearch.py () (start_C_ip) (end_C_ip)
-
-
-for example:python domainsearch.py 210.44 112 127
-Scan websites in the range of 210.44.112.1 - 210.44.126.255
+使用Java GUI写的爆破子域名的程序，代码比较凌乱。有时间再进行修改。
